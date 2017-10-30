@@ -1,0 +1,53 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://58.211.187.150:8112/svn/PSMS/src/web/projects/Jiangsu/SuZhou_WeChat" />
+        <option value="https://58.211.187.150:8112/svn/PSTORE" />
+        <option value="https://58.211.187.150:8112/svn/CTWebFrame/" />
+        <option value="https://58.211.187.150:8112/svn" />
+        <option value="https://58.211.187.150:8112/svn/PSMS" />
+        <option value="https://58.211.187.150:8112/svn/PSMS/src/web/projects" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://58.211.187.150:8112/svn/PSMS/src/web/projects/Jiangsu/SuZhou_WeChat" />
+        <option value="https://58.211.187.150:8112/svn/PSTORE" />
+        <option value="https://58.211.187.150:8112/svn/CTWebFrame/" />
+        <option value="https://58.211.187.150:8112/svn" />
+        <option value="https://58.211.187.150:8112/svn/PSMS" />
+        <option value="https://58.211.187.150:8112/svn/PSMS/src/web/projects" />
+        <option value="https://58.211.187.150:8112/svn/PSMS/src/web/projects/" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://58.211.187.150:8112/svn/PSMS/src/web/projects/Jiangsu/SuZhou_WeChat/SZ_WeChat_BE/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/WorkSpaces/IdeaProjects/江苏/SuZhou_WeChat/SZ_WeChat_BE" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://58.211.187.150:8112/svn/PSMS/src/web/projects/Jiangsu/SuZhou_WeChat/SZ_WeChat_DXPORT/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/WorkSpaces/IdeaProjects/江苏/SuZhou_WeChat/SZ_WeChat_DXPORT" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
