@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... - [SHJG_BE]'" />
-    <option name="defaultScopeName" value="Directory '... - [SHJG_BE]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... - [SHJG_BE]'" />
+    <option name="customScope" value="Directory '... - [BootFrame]'" />
+    <option name="defaultScopeName" value="Directory '... - [BootFrame]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... - [BootFrame]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
