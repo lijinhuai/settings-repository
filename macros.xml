@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Save&amp;Make">
-      <action id="SaveAll" />
-      <action id="CompileDirty" />
-    </macro>
-  </component>
-</application>
